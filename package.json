@@ -34,8 +34,10 @@
     ]
   },
   "devDependencies": {
+    "components": "^0.1.0",
     "contexts": "^0.0.0",
     "hooks": "^0.3.2",
-    "pages": "^0.0.16"
+    "pages": "^0.0.16",
+    "routes": "^2.1.0"
   }
 }
